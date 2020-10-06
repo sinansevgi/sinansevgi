@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, We shall meet in the place where there is no darkness.
 
 <!--
 **sinansevgi/sinansevgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
