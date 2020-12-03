@@ -1,5 +1,6 @@
-### Hi there, We shall meet in the place where there is no darkness.
-
+### Hi there. I'm Sinan Sevgi, 
+## I'm a Full Stack Developer
+You can find my portfolio [here](https://sinansevgi.net) 
 <!--
 **sinansevgi/sinansevgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Current Status](./RcIbxkD.gif)
 [![Sinan's github stats](https://github-readme-stats.vercel.app/api?username=sinansevgi)](https://github.com/anuraghazra/github-readme-stats)
