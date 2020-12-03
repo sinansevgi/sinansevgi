@@ -1,5 +1,5 @@
 ### Hi there. I'm Sinan Sevgi, 
-## I'm a Full Stack Developer
+#### I'm a Full Stack Developer
 You can find my portfolio [here](https://sinansevgi.net) 
 <!--
 **sinansevgi/sinansevgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
