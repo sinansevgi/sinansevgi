@@ -1,6 +1,21 @@
-### Hi there. I'm Sinan Sevgi, 
-#### I'm a Full Stack Developer
-You can find my portfolio [here](https://sinansevgi.com) 
+```bash
+[sinan@sinan-github ~]$ whoami
+
+> "Hi there. I'm Sinan Sevgi"
+```
+
+```bash
+[sinan@sinan-github ~]$ groups
+
+> "I'm a Full Stack Developer"
+```
+
+```bash
+[sinan@sinan-github ~]$ echo ~
+
+> https://sinansevgi.com
+```
+[Portfolio](https://sinansevgi.com) 
 <!--
 **sinansevgi/sinansevgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
